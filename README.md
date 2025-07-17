@@ -1,6 +1,6 @@
 # API Fiat Convertor
 
-Con esta API, se puede convertir un portafolio de criptomonedas a su equivalente a moneda fiat, usando los precios en tiempo real de la API publica de buda.com. 
+Con esta API Flask, se puede convertir un portafolio de criptomonedas a su equivalente a moneda fiat, usando los precios en tiempo real de la API publica de buda.com. 
 Además se añadió la funcionalidad de convertir a varias monedas fiat en el mismo request.
 
 Se utiliza "last_price" como multiplicador de la divisa
