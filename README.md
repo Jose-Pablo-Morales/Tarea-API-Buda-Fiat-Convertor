@@ -54,7 +54,7 @@ Obtiene el último precio de una criptomoneda en una moneda fiat desde la API de
 
 ### generate_market_list(portfolio, fiat_list)
 
-Genera IDs de mercados necesarios (ej. btc-clp, eth-ars).
+	Genera IDs de mercados necesarios (ej. BTC-CLP, ETH-PEN).
 
 ### generate_rates(market_id_list)
 
